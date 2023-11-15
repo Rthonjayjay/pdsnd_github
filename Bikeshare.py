@@ -1,3 +1,5 @@
+# This Project is as a result of Udacity learning courtsey of Access Bank
+
 import time
 import pandas as pd
 import numpy as np
@@ -351,3 +353,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # optimize end comment
