@@ -1,5 +1,5 @@
 ### Date created
-15/11/2023
+13/10/2023
 
 ### Project Title
 Us Bikeshare Project
@@ -13,10 +13,6 @@ The required files for running this program are:
 * washington.csv
 * new_york_city.csv
 * chicago.csv
-
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 "Additional resources" 
 "Udacity Learning Platform is great" 
